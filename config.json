@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailralidate",
+        "uuid": 10797381,
+        "checksum": "ohvfm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
